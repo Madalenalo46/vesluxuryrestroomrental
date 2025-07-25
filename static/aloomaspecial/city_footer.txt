@@ -1,0 +1,51 @@
+   <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">How often is a long-term construction rental serviced?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our standard agreement for a porta potty business rental includes once-weekly service. This includes pumping out the tank, cleaning all surfaces, restocking toilet paper and hand sanitizer, and recharging the unit with deodorizer. More frequent service is available for high-traffic sites.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can you lift a porta potty over a fence?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Unfortunately, no. Our trucks are equipped with a dolly system for rolling the units into place. We cannot lift them over fences, walls, or up flights of stairs. We require a clear access path of at least 4 feet wide.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Are your porta potties ADA-compliant?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, we offer wheelchair-accessible units that meet ADA guidelines and are built with non-slip floors and handrails.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can I rent portable toilets for just one day?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Absolutely. We offer daily rentals for private parties, small events, and short-term needs.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can you place a unit on my sloped driveway?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We cannot place a unit on a significant slope for safety reasons. However, our experienced drivers are experts at finding a viable, level spot, often using shims or blocks to create a stable base on slight inclines.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can I get same-day delivery?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">es, depending on availability. Call us directly for rush orders.</p>
+                <div class="callalooma mx-auto"><a href="tel:801-441-6223">Click Here To Call Us (801) 441-6223</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
